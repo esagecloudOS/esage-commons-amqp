@@ -1,0 +1,7 @@
+target
+.class
+.project
+.settings
+.classpath
+test-output
+velocity.log
